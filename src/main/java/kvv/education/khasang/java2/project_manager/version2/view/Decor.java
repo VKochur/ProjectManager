@@ -16,7 +16,7 @@ public class Decor {
     public static final String CONTACT_CURATOR = "Контакт";
 
     //панель информации панели дерева проектов
-    public static final String CMD_MENU = "Дерево задач";
+    public static final String CMD_MENU = "Команды по дереву задач";
     public static final String CMD_CREATE_TASK = "Создать в подчинении задачу с указанными на панеле данными";
     public static final String CMD_UPDATE_TASK = "Изменить текущую задачу в соответствии с данными на панеле";
     public static final String CMD_DEL_TASK = "Удалить текущую и все подзадачи";
